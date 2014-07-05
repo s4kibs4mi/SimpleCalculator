@@ -1,3 +1,3 @@
 SimpleCalculator
 ================
-Created Using QT4 for testing perpose
+Created Using QT for testing perpose
